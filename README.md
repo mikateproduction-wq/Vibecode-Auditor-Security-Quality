@@ -1,11 +1,11 @@
-🔍 Vibecode Auditor
+🔍 Vibecode-Auditor-Security-Quality
 
 > 100% Local & Offline Security & Quality Audit Tool for Mobile Apps, Web Code, and Archives. 
 > Developed by MIKATÉ PRODUCTION
 
 🌟 Overview
 
-Vibecode Auditor is a zero-dependency, single-file browser application designed to audit source code, binaries (`.apk`, `.aab`), and project archives against 160 "vibecoding" red flags and anti-patterns. 
+Vibecode-Auditor-Security-Quality is a zero-dependency, single-file browser application designed to audit source code, binaries (`.apk`, `.aab`), and project archives against 160 "vibecoding" red flags and anti-patterns. 
 
 It runs completely in your browser—no backend servers, no code uploads, and no data tracking. Your code never leaves your local machine unless you explicitly opt to use the optional AI Chat assistant.
 
