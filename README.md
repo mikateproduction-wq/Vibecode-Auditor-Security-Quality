@@ -27,7 +27,7 @@ Since Vibecode Auditor is packaged as a standalone HTML web application, setup t
  Option 1: Direct Usage
 1. Download or clone this repository:
    ```bash
-   git clone [https://github.com/mikateproduction-wq/Vibecode-auditor-.git](https://github.com/mikateproduction-wq/Vibecode-auditor-.git)
+   git clone [https://github.com/mikateproduction-wq/Vibecode-Auditor-Security-Quality.git](https://github.com/mikateproduction-wq/Vibecode-Auditor-Security-Quality.git)
    Open vibecode-auditor.html in any modern web browser (Chrome, Firefox, Edge, Safari).
 2. Open vibecode-auditor.html in any modern web browser (Chrome, Firefox, Edge, Safari).
 3. Start auditing!
